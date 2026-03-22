@@ -2,7 +2,7 @@ name: Python package
 
 on:
   schedule:
-    - cron: '20 14 * * *'  # Daily at 7:50 PM IST (14:20 UTC)
+    - cron: '23 14 * * *'  # Daily at 7:53 PM IST (14:23 UTC)
 
 jobs:
   build:
